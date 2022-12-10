@@ -28,3 +28,5 @@ Please note: For the below statements you need to state the Null and Alternate a
 
 * Whether the average response time across complaint types is similar or not (overall)
 * Are the type of complaint or service requested and location related?
+
+Whether the average response time across complaint types is similar or not (overall) Are the type of complaint or service requested and location related?
